@@ -1,0 +1,1 @@
+export const NO_ITEMS_FOUND = 'No items found'

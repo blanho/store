@@ -1,4 +1,4 @@
-import { prisma } from '../lib/prisma'; // Adjust the import path as necessary
+import { prisma } from '@/utils/db'; // Adjust the import path as necessary
 
 const products = [
   {
